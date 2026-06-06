@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+yfinance
+crewai
+langgraph
+langchain-openai
+openai
